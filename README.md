@@ -3,7 +3,7 @@
 ## I'm a Student of AGH University of Science and Technology!!
 
 - 🌱 I’m currently learning everything 😆 
-- 👯 I’m looking to collaborate with others and to create some interesing projects
+- 👯 I’m looking to collaborate with others and to create some interesting projects
 - 👀 Fun fact: I love to produce music and workout
 
 

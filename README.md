@@ -6,9 +6,6 @@
 - 👯 I’m looking to collaborate with others and to create some interesting projects
 - 👀 Fun fact: I love to produce music and workout
 
-
-- 📄 Know about my experiences [[link to CV]]([link to CV])
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maciej-piwek-847219212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maciej piwek" height="30" width="40" /></a>

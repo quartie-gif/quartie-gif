@@ -1,6 +1,6 @@
 ### Hi there, I'm Maciek - aka [quartie-gif] 👋
 
-## I'm a Student of AGH University of Science and Technology!!
+## I'm a audio/video software developer!!
 
 - 🌱 I’m currently learning Cpp mostly😆 
 - 👯 I’m looking to collaborate with others and to create some interesting projects
